@@ -1,0 +1,6 @@
+time,roof_shaded_pct,facade_shaded_pct_of_sun_facing,tree_shade_pct_of_sun_facing,envelope_direct_sun_pct,area_weighted_solar_index
+09:00,12.71,46.63,27.67,50.02,0.24
+12:00,6.47,32.93,18.18,56.76,0.38
+15:00,7.0,29.29,16.84,57.58,0.37
+18:00,15.95,45.51,29.03,49.21,0.2
+Four-time mean,10.53,38.59,22.93,53.39,0.3
