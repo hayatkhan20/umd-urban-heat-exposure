@@ -1,0 +1,34 @@
+{
+  "name": "umd-heatshield",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Building-scale heat exposure and tree-shade decision support for UMD College Park.",
+  "type": "module",
+  "scripts": {
+    "prepare:data": "node scripts/prepare-data.mjs",
+    "predev": "node scripts/prepare-data.mjs",
+    "dev": "vite",
+    "prebuild": "node scripts/prepare-data.mjs",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "leaflet": "^1.9.4",
+    "lucide-react": "^0.468.0",
+    "proj4": "^2.15.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-leaflet": "^4.2.1",
+    "recharts": "^2.15.0",
+    "topojson-client": "^3.1.0",
+    "topojson-server": "^3.0.1",
+    "topojson-simplify": "^3.0.3"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.4",
+    "vite": "^5.4.11"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
