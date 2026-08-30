@@ -8,7 +8,7 @@
 
 <!-- Replace LIVE_DASHBOARD_URL and DEMO_VIDEO_URL with the final public links before publishing. -->
 
-[**Live Dashboard**](LIVE_DASHBOARD_URL) · [**Three-minute Demo Video**](DEMO_VIDEO_URL)
+[**Live Dashboard**]([LIVE_DASHBOARD_URL](https://urban-heat-decision-intelligence.onrender.com)) · [**Three-minute Demo Video**](DEMO_VIDEO_URL)
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-181717?logo=github&logoColor=white)](https://github.com/hayatkhan20/umd-urban-heat-exposure)
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hayatkhan20/umd-urban-heat-exposure/blob/main/notebooks/01_umd_analysis_boundary.ipynb)
