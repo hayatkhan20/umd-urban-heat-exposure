@@ -349,9 +349,9 @@ The `webapp/` directory contains the project dashboard for exploring the analyti
 
 The public application works from prepared/cached outputs so that the FortyGuard API key is not exposed in the browser.
 
-[**Open the live dashboard**](LIVE_DASHBOARD_URL)
+[**Open the live dashboard**](https://urban-heat-decision-intelligence.onrender.com)
 
-[**Watch the three-minute demo video**](DEMO_VIDEO_URL)
+[**Watch the three-minute demo video**](https://www.youtube.com/watch?v=KkWTb22GhjU)
 
 ---
 
